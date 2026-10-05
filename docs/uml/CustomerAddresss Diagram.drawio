@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="cDkZW0tNER9G-irmz9LA">
+    <mxGraphModel dx="452" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="610" width="380" x="120" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-4" edge="1" parent="1" source="H1b0uuF6OUhmCFnUWV49-1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.341;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.008;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;" target="H1b0uuF6OUhmCFnUWV49-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="460" as="sourcePoint" />
+            <mxPoint x="380" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-5" edge="1" parent="1" source="H1b0uuF6OUhmCFnUWV49-1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.011;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.672;exitDx=0;exitDy=0;exitPerimeter=0;" target="H1b0uuF6OUhmCFnUWV49-1" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.0015" as="geometry">
+            <mxPoint x="330" y="460" as="sourcePoint" />
+            <mxPoint x="380" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Customer" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ Customer()&lt;div&gt;+ Customer (Long id, String name, String email)&lt;br&gt;&lt;div&gt;+ getId() Long&lt;div&gt;+ getName() String&lt;/div&gt;&lt;div&gt;+ getEmail() String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="145" x="237.5" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- id : long&lt;div&gt;&amp;nbsp;- name : String&lt;/div&gt;&lt;div&gt;&amp;nbsp;- email : String&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="230" x="195" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="610" width="380" x="530" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-11" edge="1" parent="1" source="H1b0uuF6OUhmCFnUWV49-10" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.341;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.008;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;" target="H1b0uuF6OUhmCFnUWV49-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="550" as="sourcePoint" />
+            <mxPoint x="840" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-12" edge="1" parent="1" source="H1b0uuF6OUhmCFnUWV49-10" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.011;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.672;exitDx=0;exitDy=0;exitPerimeter=0;" target="H1b0uuF6OUhmCFnUWV49-10" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.0015" as="geometry">
+            <mxPoint x="790" y="550" as="sourcePoint" />
+            <mxPoint x="840" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Address" vertex="1">
+          <mxGeometry height="30" width="60" x="690" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ Address()&lt;div&gt;+ Address (String street, String city, String postcode)&lt;br&gt;&lt;div&gt;+ getStreet() String&lt;div&gt;+ getCity() String&lt;/div&gt;&lt;div&gt;+ getPostcode() String&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="145" x="647.5" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- street : String&lt;div&gt;&amp;nbsp;- city : String&lt;/div&gt;&lt;div&gt;&amp;nbsp;- postcode : String&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="230" x="605" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="H1b0uuF6OUhmCFnUWV49-18" edge="1" parent="1" source="H1b0uuF6OUhmCFnUWV49-1" style="endArrow=block;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="H1b0uuF6OUhmCFnUWV49-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
